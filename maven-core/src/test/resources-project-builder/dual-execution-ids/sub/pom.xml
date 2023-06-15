@@ -16,14 +16,14 @@
     <plugins>
       <plugin>
         <artifactId>maven-remote-resources-plugin</artifactId>
-        <version>1.0</version>
+        <version>1.7.0</version>
       </plugin>
       </plugins>
   </pluginManagement>
   <plugins>
     <plugin>
       <artifactId>maven-remote-resources-plugin</artifactId>
-      <version>1.0</version>
+      <version>1.7.0</version>
       <executions>
         <execution>
           <id>default</id>
